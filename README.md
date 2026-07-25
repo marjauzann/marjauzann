@@ -70,8 +70,6 @@
 | 🛒 **JualAja** | React · Express.js · PostgreSQL | Second-hand goods marketplace with secure auth, search/filter, cart |
 | 🍽️ **Resa POS** | React · Express.js · PostgreSQL | Restaurant management — POS, inventory, table reservations |
 
-> Ganti/tambah link repo tiap project kalau mau, format: `[Seerumah](https://github.com/marjauzann/nama-repo)`
-
 ---
 
 ### 🏆 Trophies
@@ -100,8 +98,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/marjauzann/marjauzann/output/github-contribution-grid-snake.svg" />
 </p>
-
-> ⚠️ Snake animation ini butuh setup tambahan (GitHub Action), lihat catatan di bawah kalau mau aktifkan.
 
 ---
 
