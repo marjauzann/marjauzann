@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marjauza Naswansyah</h1>
-<h3 align="center">Software Engineer · Full-Stack Developer · Laravel & Next.js</h3>
+<h3 align="center">Software Engineer · Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+Seerumah+%E2%80%94+Property+Marketplace;Laravel+%7C+Next.js+%7C+Express.js+%7C+MySQL;From+empty+repo+to+production" alt="Typing SVG" />
