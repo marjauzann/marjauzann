@@ -63,40 +63,45 @@
 
 ### 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/marjauzann/proyekan">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marjauzann&repo=proyekan&theme=default" width="48%" />
-  </a>
-  <a href="https://github.com/marjauzann/jualaja">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marjauzann&repo=jualaja&theme=default" width="48%" />
-  </a>
+| Project | Stack | Description |
+|---|---|---|
+| 🏠 **Seerumah** | Laravel · Next.js · MySQL · Nginx | Property marketplace — modular monolithic backend, multi-role auth (JWT + Google OAuth), payment gateway with 15+ methods |
+| 💼 **Proyekan** | React · Express.js · PostgreSQL | Freelance marketplace with project bidding & realtime messaging |
+| 🛒 **JualAja** | React · Express.js · PostgreSQL | Second-hand goods marketplace with secure auth, search/filter, cart |
+| 🍽️ **Resa POS** | React · Express.js · PostgreSQL | Restaurant management — POS, inventory, table reservations |
+
+> Ganti/tambah link repo tiap project kalau mau, format: `[Seerumah](https://github.com/marjauzann/nama-repo)`
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marjauzann&theme=dark_dimmed&no-frame=true&row=1&column=6" />
 </p>
-
-<p align="left">
-  <a href="https://github.com/marjauzann/resa-pos">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marjauzann&repo=resa-pos&theme=default" width="48%" />
-  </a>
-  <a href="https://github.com/marjauzann/seerumah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marjauzann&repo=seerumah&theme=default" width="48%" />
-  </a>
-</p>
-
-<br clear="left"/>
-
-> 💡 **Note:** ganti nama repo di atas (`proyekan`, `jualaja`, `resa-pos`, `seerumah`) sesuai nama repo asli di akunmu, kalau berbeda.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marjauzann&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjauzann&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marjauzann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjauzann&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjauzann&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marjauzann&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marjauzann/marjauzann/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ Snake animation ini butuh setup tambahan (GitHub Action), lihat catatan di bawah kalau mau aktifkan.
 
 ---
 
